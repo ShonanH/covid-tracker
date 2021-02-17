@@ -25,7 +25,11 @@
 }
 
 .app__left {
-  flex: 0.9;
+  flex: 0.6;
+}
+
+.app__right {
+  max-width: 100%;
 }
 
 @media (max-width: 990px) {
