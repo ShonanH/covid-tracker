@@ -1,2 +1,2 @@
 # covid-tracker
-Covid Tracker built with React.js
+ Full-Stack App: Covid Tracker built with React.js
